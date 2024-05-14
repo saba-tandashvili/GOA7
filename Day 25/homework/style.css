@@ -1,0 +1,27 @@
+body{
+    background-color: hsl(0, 0%, 60%);
+}
+.head{
+    text-align: center;
+    color: white;
+    text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
+}
+.LFA-img{
+    height: 500px;
+    width: 700px;
+    margin-left: 25%;
+    border-radius: 20px;
+}
+.info{
+    position: absolute;
+    left: 15%;
+    right: 15%;
+    text-shadow:1px 1px 10px hsl(0, 0%, 100%), 1px 1px 10px hsl(0, 0%, 80%);
+}
+.info2{
+    position: absolute;
+    left: 15%;
+    right: 15%;
+    top: 750px;
+    text-shadow:1px 1px 10px hsl(0, 0%, 100%), 1px 1px 10px hsl(0, 0%, 80%);
+}
